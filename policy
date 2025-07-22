@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Política de Privacidade</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+
+    h1 {
+      color: #222;
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      color: #444;
+      margin-top: 30px;
+    }
+
+    p {
+      margin-bottom: 15px;
+    }
+
+    .last-updated {
+      font-size: 0.9em;
+      color: #666;
+      margin-bottom: 30px;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Política de Privacidade</h1>
+    <p class="last-updated"><strong>Última atualização:</strong> 22 de julho de 2025</p>
+
+    <p>Esta Política de Privacidade descreve como este aplicativo utiliza a API da Meta (Facebook) para acessar e processar dados de contas de anúncios, exclusivamente com a finalidade de geração de relatórios internos de desempenho publicitário.</p>
+
+    <h2>1. Coleta de Dados</h2>
+    <p>Este aplicativo acessa, por meio da API da Meta, apenas dados relacionados ao desempenho de campanhas publicitárias, incluindo:</p>
+    <ul>
+      <li>Nome da conta publicitária</li>
+      <li>Nome das campanhas</li>
+      <li>Impressões</li>
+      <li>Cliques</li>
+      <li>Alcance</li>
+      <li>Frequência</li>
+      <li>Gasto (spend)</li>
+      <li>Métricas de custo (CPC, CPM, CTR)</li>
+      <li>Ações e conversões (via <code>action_type</code>)</li>
+    </ul>
+    <p><strong>Importante:</strong> Este aplicativo <strong>não coleta, armazena ou acessa informações pessoais identificáveis</strong> de usuários da Meta ou de terceiros.</p>
+
+    <h2>2. Uso dos Dados</h2>
+    <p>Os dados coletados são utilizados <strong>exclusivamente para fins internos</strong>, como visualização de desempenho de campanhas, geração de relatórios e tomada de decisões estratégicas.</p>
+    <p>Não utilizamos os dados para marketing, remarketing ou criação de perfis de usuários.</p>
+
+    <h2>3. Armazenamento e Segurança</h2>
+    <p>Os dados podem ser armazenados temporariamente em sistemas como Make.com ou Google Sheets. Utilizamos práticas de segurança da informação, como:</p>
+    <ul>
+      <li>Transmissão por HTTPS</li>
+      <li>Armazenamento em ambientes controlados</li>
+      <li>Acesso restrito com autenticação</li>
+    </ul>
+
+    <h2>4. Compartilhamento de Dados</h2>
+    <p>Este aplicativo <strong>não compartilha</strong> dados com terceiros. O acesso é restrito à equipe autorizada.</p>
+
+    <h2>5. Direitos dos Titulares dos Dados</h2>
+    <p>Você pode solicitar acesso, correção ou exclusão de dados. Envie um e-mail para o contato abaixo. Responderemos em até <strong>30 dias corridos</strong>.</p>
+
+    <h2>6. Dados de Menores e Dados Sensíveis</h2>
+    <p>Não coletamos dados de menores de 18 anos nem dados sensíveis (como saúde, religião ou orientação política).</p>
+
+    <h2>7. Conformidade</h2>
+    <p>Estamos em conformidade com a <a href="https://developers.facebook.com/policy/" target="_blank">Política da Plataforma da Meta</a>, com a <strong>LGPD</strong> (Brasil) e o <strong>GDPR</strong> (Europa), quando aplicável.</p>
+
+    <h2>8. Alterações nesta Política</h2>
+    <p>Podemos atualizar esta política periodicamente. A data da última atualização será sempre informada no topo.</p>
+
+    <h2>9. Contato</h2>
+    <p>Para dúvidas ou solicitações, entre em contato:</p>
+    <ul>
+      <li><strong>Responsável:</strong> M3PRODUÇÃO DIGITAL </li>
+      <li><strong>E-mail:</strong> danielabrito.m3@gmail.com</li>
+      <li><strong>Telefone:</strong> 61984758553</li>
+    </ul>
+  </div>
+</body>
+</html>
